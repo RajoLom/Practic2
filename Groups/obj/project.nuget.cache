@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GO5QxhrqoWDtkF+GLdS1n42gAQ6EWLvTC/qFUW0SsUv4Et3cXfhQmGvhaoujH6ii6l+T3DdQZmTauy/XM7/lbA==",
+  "success": true,
+  "projectFilePath": "C:\\practic\\Groups\\Groups.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LATITUDE-E7270\\.nuget\\packages\\mstest.testframework\\3.2.2\\mstest.testframework.3.2.2.nupkg.sha512",
+    "C:\\Users\\LATITUDE-E7270\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
