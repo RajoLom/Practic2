@@ -10,6 +10,7 @@ public class GroupManagerEntity
     {
         GroupEntity group = new GroupEntity();
         group.setgroupname(name);
+        scool.Add(group);
     }
     public bool setteachertogroup(string teachername, string groupname)
     {
