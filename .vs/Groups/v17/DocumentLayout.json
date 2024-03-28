@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\practic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\groupmanagerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\groupmanagerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\subjectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\subjectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\practic\\GroupTests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GroupTests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\personentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\personentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\tests\\groupmanagerentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\tests\\groupmanagerentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\groupmanagerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\groupmanagerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\studententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\tests\\groupentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\tests\\groupentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\tests\\personentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\tests\\personentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\tests\\studententitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\tests\\studententitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\tests\\teacherentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\tests\\teacherentitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\groups.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\groups.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\groupentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\groupentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\teacherentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\teacherentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|c:\\practic\\groups\\implementions\\subjectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F42ED-64A4-4F2B-B132-62EF366E6127}|Groups\\Groups.csproj|solutionrelative:groups\\implementions\\subjectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,43 +66,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubjectEntity.cs",
-              "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\SubjectEntity.cs",
-              "RelativeDocumentMoniker": "Groups\\Implementions\\SubjectEntity.cs",
-              "ToolTip": "C:\\practic\\Groups\\Implementions\\SubjectEntity.cs",
-              "RelativeToolTip": "Groups\\Implementions\\SubjectEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\practic\\GroupTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GroupTests\\UnitTest1.cs",
+              "ToolTip": "C:\\practic\\GroupTests\\UnitTest1.cs",
+              "RelativeToolTip": "GroupTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T20:31:54.917Z",
+              "WhenOpened": "2024-03-28T15:53:48.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroupManagerEntityTests.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Tests\\GroupManagerEntityTests.cs",
+              "RelativeDocumentMoniker": "Groups\\Tests\\GroupManagerEntityTests.cs",
+              "ToolTip": "C:\\practic\\Groups\\Tests\\GroupManagerEntityTests.cs",
+              "RelativeToolTip": "Groups\\Tests\\GroupManagerEntityTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:49:10.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupEntityTests.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Tests\\GroupEntityTests.cs",
+              "RelativeDocumentMoniker": "Groups\\Tests\\GroupEntityTests.cs",
+              "ToolTip": "C:\\practic\\Groups\\Tests\\GroupEntityTests.cs",
+              "RelativeToolTip": "Groups\\Tests\\GroupEntityTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:59:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonEntityTests.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Tests\\PersonEntityTests.cs",
+              "RelativeDocumentMoniker": "Groups\\Tests\\PersonEntityTests.cs",
+              "ToolTip": "C:\\practic\\Groups\\Tests\\PersonEntityTests.cs",
+              "RelativeToolTip": "Groups\\Tests\\PersonEntityTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T00:06:55.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StudentEntity.cs",
-              "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\StudentEntity.cs",
-              "RelativeDocumentMoniker": "Groups\\Implementions\\StudentEntity.cs",
-              "ToolTip": "C:\\practic\\Groups\\Implementions\\StudentEntity.cs",
-              "RelativeToolTip": "Groups\\Implementions\\StudentEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T20:31:53.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "GroupManagerEntity.cs",
               "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\GroupManagerEntity.cs",
               "RelativeDocumentMoniker": "Groups\\Implementions\\GroupManagerEntity.cs",
               "ToolTip": "C:\\practic\\Groups\\Implementions\\GroupManagerEntity.cs",
               "RelativeToolTip": "Groups\\Implementions\\GroupManagerEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T20:31:35.066Z",
               "EditorCaption": ""
@@ -78,32 +136,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "StudentEntity.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\StudentEntity.cs",
+              "RelativeDocumentMoniker": "Groups\\Implementions\\StudentEntity.cs",
+              "ToolTip": "C:\\practic\\Groups\\Implementions\\StudentEntity.cs",
+              "RelativeToolTip": "Groups\\Implementions\\StudentEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:31:53.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PersonEntity.cs",
               "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\PersonEntity.cs",
               "RelativeDocumentMoniker": "Groups\\Implementions\\PersonEntity.cs",
               "ToolTip": "C:\\practic\\Groups\\Implementions\\PersonEntity.cs",
               "RelativeToolTip": "Groups\\Implementions\\PersonEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T20:31:33.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GroupEntity.cs",
-              "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\GroupEntity.cs",
-              "RelativeDocumentMoniker": "Groups\\Implementions\\GroupEntity.cs",
-              "ToolTip": "C:\\practic\\Groups\\Implementions\\GroupEntity.cs",
-              "RelativeToolTip": "Groups\\Implementions\\GroupEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "DocumentIndex": 7,
+              "Title": "StudentEntityTests.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Tests\\StudentEntityTests.cs",
+              "RelativeDocumentMoniker": "Groups\\Tests\\StudentEntityTests.cs",
+              "ToolTip": "C:\\practic\\Groups\\Tests\\StudentEntityTests.cs",
+              "RelativeToolTip": "Groups\\Tests\\StudentEntityTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T20:30:34.706Z",
+              "WhenOpened": "2024-03-28T00:15:57.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "TeacherEntityTests.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Tests\\TeacherEntityTests.cs",
+              "RelativeDocumentMoniker": "Groups\\Tests\\TeacherEntityTests.cs",
+              "ToolTip": "C:\\practic\\Groups\\Tests\\TeacherEntityTests.cs",
+              "RelativeToolTip": "Groups\\Tests\\TeacherEntityTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:57:46.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\practic\\Groups\\Program.cs",
               "RelativeDocumentMoniker": "Groups\\Program.cs",
@@ -112,6 +196,58 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T20:30:25.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Groups.csproj",
+              "DocumentMoniker": "C:\\practic\\Groups\\Groups.csproj",
+              "RelativeDocumentMoniker": "Groups\\Groups.csproj",
+              "ToolTip": "C:\\practic\\Groups\\Groups.csproj",
+              "RelativeToolTip": "Groups\\Groups.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-28T00:02:29.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupEntity.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\GroupEntity.cs",
+              "RelativeDocumentMoniker": "Groups\\Implementions\\GroupEntity.cs",
+              "ToolTip": "C:\\practic\\Groups\\Implementions\\GroupEntity.cs",
+              "RelativeToolTip": "Groups\\Implementions\\GroupEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:30:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherEntity.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\TeacherEntity.cs",
+              "RelativeDocumentMoniker": "Groups\\Implementions\\TeacherEntity.cs",
+              "ToolTip": "C:\\practic\\Groups\\Implementions\\TeacherEntity.cs",
+              "RelativeToolTip": "Groups\\Implementions\\TeacherEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:17:03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubjectEntity.cs",
+              "DocumentMoniker": "C:\\practic\\Groups\\Implementions\\SubjectEntity.cs",
+              "RelativeDocumentMoniker": "Groups\\Implementions\\SubjectEntity.cs",
+              "ToolTip": "C:\\practic\\Groups\\Implementions\\SubjectEntity.cs",
+              "RelativeToolTip": "Groups\\Implementions\\SubjectEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:31:54.917Z",
               "EditorCaption": ""
             }
           ]
